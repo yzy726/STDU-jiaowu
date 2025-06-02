@@ -18,4 +18,8 @@
 如果您有更好的想法或想要适配您的学校，请自行fork。  
 如果您有更好的建议或疑问，可以提issues或添加下方微信公众号留言反馈。  
 ![公众号二维码](https://raw.githubusercontent.com/yzy726/STDU-jiaowu/main/src/image/gzh.png)  
+<<<<<<< HEAD
 （预计以后这些功能会上架到公众号上）
+=======
+（预计以后这些功能会上架到公众号上）
+>>>>>>> b44cb5b45213721b9b3716817c27edaf287f4dfc
