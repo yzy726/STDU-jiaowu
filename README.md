@@ -17,4 +17,5 @@
 本程序是端午假期花了两天时间依靠AI做成的，由于时间紧迫导致程序比较简陋，望大家谅解。  
 如果您有更好的想法或想要适配您的学校，请自行fork。  
 如果您有更好的建议或疑问，可以提issues或添加下方微信公众号留言反馈。  
+![公众号二维码](https://raw.githubusercontent.com/yzy726/STDU-jiaowu/main/src/image/gzh.png)
 （预计以后这些功能会上架到公众号上）
