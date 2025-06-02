@@ -1,0 +1,8 @@
+# requirements.txt
+
+# 必需库
+selenium== 4.33.0
+pandas==2.2.3
+beautifulsoup4==4.13.4
+lxml==5.4.0
+openpyxl==3.1.5
